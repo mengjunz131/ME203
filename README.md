@@ -1,3 +1,3 @@
 # ME203
-projects from ME 203
+File from ME 203
 HW, LABS, AND CLASS DEMONSTRATIONS
